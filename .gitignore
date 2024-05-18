@@ -1,3 +1,4 @@
+.gitignore
 x64/
 .vs/
 SFML_GettingStarted.sln
